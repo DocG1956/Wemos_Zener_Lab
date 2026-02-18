@@ -7,3 +7,5 @@
 *.a
 *.d
 *.map
+results.csv
+build/
